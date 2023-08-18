@@ -1,1 +1,1 @@
-# Just something on Vue JS first time
+# Posts creator on VueJS
